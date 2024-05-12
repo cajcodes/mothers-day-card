@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mothers-day-card/static/css/main.94caf1e6.css",
+    "main.js": "/mothers-day-card/static/js/main.cc4e4335.js",
+    "static/js/453.856f11bf.chunk.js": "/mothers-day-card/static/js/453.856f11bf.chunk.js",
+    "index.html": "/mothers-day-card/index.html",
+    "main.94caf1e6.css.map": "/mothers-day-card/static/css/main.94caf1e6.css.map",
+    "main.cc4e4335.js.map": "/mothers-day-card/static/js/main.cc4e4335.js.map",
+    "453.856f11bf.chunk.js.map": "/mothers-day-card/static/js/453.856f11bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94caf1e6.css",
+    "static/js/main.cc4e4335.js"
+  ]
+}
